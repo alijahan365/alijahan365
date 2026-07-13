@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C,C++,DSA**
 
-- 📫 How to reach me **jahan-242-15-846@diu.edu.bd**
+- 📫 How to reach me **jahan242-15-846@diu.edu.bd**
 
 - ⚡ Fun fact **I think I am funny 😄**
 
