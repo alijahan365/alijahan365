@@ -1,22 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ali Jahan Riashad</h1>
-<h3 align="center">🚀 CSE Student | 💻 Passionate Programmer | 🌟 Aspiring Software Engineer | 🧠 Lifelong Learner</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Hospital Management System**
+  <h1>Ali Jahan Riashad</h1>
+  <p><b>Computer Science & Engineering Student @ Daffodil International University</b></p>
 
-- 🌱 I’m currently learning **HTML CSS**
+  <!-- Typing Animation -->
+  <a href="https://github.com/alijahan365">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=00ADB5&center=true&vCenter=true&width=750&lines=CSE+Undergraduate+%40+Daffodil+International+University;Full-Stack+Web+Developer+(Python+%26+Django);Systems+Programming+%7C+Compiler+Design+%26+Algorithms;Building+Modern%2C+Scalable+Web+Applications" alt="Ali Jahan Typing SVG" />
+  </a>
 
-- 👯 I’m looking to collaborate on [Web-based Inventory System for Stores](file:///C:/Users/alija/Downloads/Inventory%20System%20JMS.html)
+  <br/><br/>
 
-- 💬 Ask me about **C,C++,DSA**
+  <!-- Profile View Badge -->
+  <a href="https://github.com/alijahan365">
+    <img src="https://komarev.com/ghpvc/?username=alijahan365&label=Profile%20Views&color=00adb5&style=flat-square" alt="Profile Views" />
+  </a>
 
-- 📫 How to reach me **jahan242-15-846@diu.edu.bd**
+</div>
 
-- ⚡ Fun fact **I think I am funny 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/19kexxxw8h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/19kexxxw8h/" height="30" width="40" /></a>
+### ⚡ **Quick Overview**
+
+| Attribute | Details |
+| :--- | :--- |
+| **🎓 Education** | B.Sc. in Computer Science & Engineering, Daffodil International University (DIU) |
+| **💻 Primary Focus** | Full-Stack Web Development (Django & Python), Backend Systems & Algorithms |
+| **🛠️ Technical Stack** | Python, Django, C, C++, JavaScript, MySQL, HTML5/CSS3, Git |
+| **🎯 Career Goal** | Building scalable, high-performance web applications & software architecture |
+
+---
+
+### 💻 **Skill Set & Toolkit**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,c,cpp,js,html,css,mysql,git,github,vscode,linux,postman&perline=7" alt="Ali Jahan Skill Stack" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 **Featured Project Portfolio**
+
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **🛍️ NexShopBD E-Commerce** | Python, Django, MySQL | Comprehensive e-commerce solution with product catalog, cart system, user authentication, and order processing. |
+| **📝 Online Examination System (OES)** | Python, Django, MySQL | Automated assessment portal featuring online quiz scheduling, timed tests, and instant result analytics. |
+| **⚙️ Compiler Design Lab Solutions** | Flex, Bison, C, C++ | Lab implementations of Lexical Analyzers, NFA-to-DFA Subset Construction algorithms, and Syntax Error Parsing. |
+| **🏥 Hospital Management System** | Python, C++, MySQL | Healthcare administration software covering patient management, doctor scheduling, and appointment records. |
+
+---
+
+### 🎯 **Objectives & Future Roadmap**
+
+- 🌐 **Full-Stack Engineering:** Build production-ready, scalable web applications using **Python & Django**.
+- 🧠 **Algorithmic Mastery:** Deepen problem-solving skills in **Data Structures, Algorithms & System Design**.
+- 🛠️ **Open Source Contributions:** Collaborate on open-source software & developer tools.
+- 🚀 **Professional Growth:** Evolve into a high-impact Software Engineer crafting robust backend architectures.
+
+---
+
+### 📬 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-jahan-637b02420" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jahan242-15-846@diu.edu.bd">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Driven by Curiosity & Code • <b>Ali Jahan Riashad</b></sub>
+</div>
